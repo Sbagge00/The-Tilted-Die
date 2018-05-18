@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+    <head>
+        <title>The Tilted Die</title>
+        <link rel="stylesheet" href="styles/main.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+        <link rel="stylesheet" href="website.css"
+        
+    </head>
+    <body>
+     
+
+
+        <header>
+            <nav>
+                <h1> <img src="d20.png" style="width:80px;height:87px;"
+                    <h2>  The Tilted Die </h2>
+                </h1>
+                <ul>
+                    <li><a href="website.html">Home</a></li>
+                    <li><a href="World Map.html">World Map</a></li>
+                    <li><a href="#">Campaign Diary</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+
+                </ul>
+            </nav>
+        </header>
+
+
+        <div class="row">
+
+        </div>
+
+        <h3>The Silent Storm</h3>
+            <h4>(A 5e campaign for players level 3)</h4>
+
+            <header>Town of Whitefrost</header>
+
+        <img src="whitefrost.jpg" style="width:100%;height:100%;">
+        
+        <h4>The Story Thus Far...</h4>
+        <p>Our story begins in the small city of Whitefrost. In the distance, a church bell tolls as our heroes 
+            walk the busy and narrow streets of a fishing market. A light fog hovers above the stream that 
+            runs through the town. A local fisherman warns newcommers not to stay out past dark. By three chimes, the sun
+        begins to set as small yellowish lights flicker on in the windows of homes. The streets clear out and the only thing left is the smell of fish.</p>
+        
+        <p>Whitefrost Lore</p>
+        <p>A character knows the following information with a successful check.</p>
+            <ul>
+                <li><a>"DC 15 (History): Whitefrost is a small settlement mostly comprised of fishermen and whalers. It is one of the few human settlements in Ruach, the northernmost island in the far north. It was originally made by the Norsemen of Jorn, but the fishing business attracted many people from all over. It is an independent town that is known for its maximum security prison, The Iron Keep."</a></li>
+                 <li><a>"DC 20 (History): The Iron Keep is run by an independent company known as The Ungoliant. Shipments arrive from all over bearing prisoners to be kept at the fortress. An interesting fact is that the fortress is much older than The Ungoliant and the town of Whitefrost, being discovered by the early settlers. No one knows what it was used for or who built it. What puzzles historians most is the maze-like design of the place. The underground levels of the fortress are actually a series of secret network of tunnels and passages. "</a></li>
+            </ul>
+            
+            <p>Inns, Taverns and Businesses</p>
+            <ul>
+                <li><a>The Frozen Hearth, a rundown inn</a></li>
+                <li><a>The Sprite’s Delight, a tavern known for their “Fire Whiskey”.</a></li>
+                <li><a>Fox & Hammer, Tanner and Skintrader</a></li>
+                <li><a>River Market</a></li>
+            </ul>
+
+                <p>Structures</p>
+                <ul>
+                    <li><a>The Iron Keep, Maximum security prison</a></li>
+                    <li><a>Whaler’s Docks</a></li>
+                    <li><a>Temple of the Matron</a></li></ul>
+
+<!-- CAN I MAKE EACH TOWN COLLAPSABLE? -->
+
+
+<header>The Glass Forest</header>
+
+<img src="Glass Forest.jpg" style="width:100%;height:100%;">
+
+<h4>The Story Thus Far...</h4>
+<p>Making way towards Winterhaven, our heroes choose which road to take. The safe road that bends easterly? Or the dangerous (although much quicker) path through the Glass Forest.
+    The edge of the forest stretches out loomingly towards our heroes as the shadows stretch out, bending and waning with the setting sun.
+    It's getting dark and soon, a lone wolf is spotted dancing between the moonlit trees. It's almost completely dark as the clouds cover the moon 
+    and a scream can be heard just beyond the light of the campfire.
+</p>
+
+<p>Whitefrost Lore</p>
+<p>A character knows the following information with a successful check.</p>
+    <ul>
+        <li><a>"DC 20 (History): There are rumors that an ancient order of mages once studied the deep magics here. No one knows what happened to them or where their great fortress was hidden.</a></li>
+         <li><a>"DC 15 (Nature): A special type of wolf is found in these forests. It is said to have a coat as white as snow and eyes that petrify anything that stares at it."</a></li>
+    </ul>
+
+        <p>Landmarks</p>
+        <ul>
+            <li><a>The Frozen River</a></li>
+            <li><a>The Smoking Hut</a></li>
+            <li><a>Mysterious Fortress</a></li>
+            <li><a>Thieves Hideaway</a></li>
+            </ul>
+
+            <p>Enemy Encounters</p>
+
+            <ul></ul><p>For every hour of travel, roll a d12. During a long rest, roll it twice, once for the first watch and another for the second.</p>
+            
+            <ul>
+                <li><a>1: the players are rewarded in some way determined by the DM. An example could be that they stumble across an abandoned campsite or meet a friendly NPC.</a></li>
+                 <li><a>11: Roll on chart below listed "Forest Encounters</a></li>
+                 <li><a>12: Roll on chart below listed "Deadly Encounters</a></li>
+            </ul>
+
+            <p>Forest Encounters</p>
+            <ul>
+                <li><a href="https://www.dndbeyond.com/monsters/wolf">1-24: 3x Wolf</a></li>
+                <li><a href="https://www.dndbeyond.com/monsters/swarm-of-ravens">25-49: 1x Swarm of Ravens, </a>
+                    <a href="https://www.dndbeyond.com/monsters/ice-mephit">1x Ice Mephit</a></li>
+                <li><a href="https://www.dndbeyond.com/monsters/polar-bear">50-74: 1x Polar Bear</a></li>
+                <li><a href="https://www.dndbeyond.com/monsters/wolf">75-89: 3x Wolf,</a>
+                     <a href="https://www.dndbeyond.com/monsters/dire-wolf">2x Dire Wolf</a></li>
+                <li><a href="https://www.dndbeyond.com/monsters/owlbear">90-100: 1x Owlbear</a></li>
+                </ul>
+
+                <p>Deadly Encounters</p>
+                <ul>
+                    <li><a href="https://www.dndbeyond.com/monsters/dire-wolf">1-49: 3x Dire Wolf</a></li>
+                    <li><a href="https://www.dndbeyond.com/monsters/yeti">1-49: 1x Yeti</a></li>
+                    <li><a href="https://www.dndbeyond.com/monsters/dire-wolf">25-49: 3x Dire Wolf, </a>
+                        <a href="https://www.dndbeyond.com/monsters/winter-wolf">1x Winter Wolf</a></li>
+                    <li><a href="https://www.dndbeyond.com/monsters/young-white-dragon">1-49: 1x Young White Dragon</a></li>
+                    <li><a href="https://www.dndbeyond.com/monsters/winter-wolf">25-49: 3x Winter Wolf, </a>
+                        <a href="#">1x Winter Wolf</a></li>
+
+                    
+        <footer></footer>
+        
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
+    </body>
+</html>
