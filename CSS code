@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    color: darkred;
+}
+
+
+header {
+    background: -moz-linear-gradient(#999, #777);
+    color: white;
+    margin: 0;
+    padding: 5px 15px;
+}
+
+h1 {
+    color: rgb(98, 59, 121);
+    font-family: fantasy;
+    size: 60%;
+}
+
+header h1 {
+    margin: 0;
+    display: inline;
+}
+
+nav ul{
+    margin: 0;
+    display: inline;
+}
+
+nav ul li {
+    background: #333;
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    padding: 7px 15px;
+    margin 3;
+    border-radius: 3px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+.row:after {
+    clear: both;
+}
+
+.col {
+    background: #333;
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+    float: left;
+    margin: 1%;
+    width: 28%;
+}
+
+footer {
+
+}
+
+body {
+    background-image: url("Paper.jpg");
+}
+
+header6 {
+    background: -moz-linear-gradient(#999, #777);
+    color: white;
+    margin: 0;
+    padding: 5px 190px;
+    float: left;
+}
